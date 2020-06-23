@@ -14,6 +14,18 @@
 		4B5B6D7D24A2058500102E91 /* HW1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6D7B24A2058500102E91 /* HW1.xcdatamodeld */; };
 		4B5B6D7F24A2058800102E91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B5B6D7E24A2058800102E91 /* Assets.xcassets */; };
 		4B5B6D8224A2058800102E91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B5B6D8024A2058800102E91 /* LaunchScreen.storyboard */; };
+		4B5B6D8C24A215C700102E91 /* RexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6D8B24A215C700102E91 /* RexViewController.swift */; };
+		4B5B6D8E24A2188200102E91 /* RexView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6D8D24A2188200102E91 /* RexView.swift */; };
+		4B5B6D9424A22D6D00102E91 /* ViewControllerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6D9324A22D6D00102E91 /* ViewControllerView.swift */; };
+		4B5B6D9624A22EDC00102E91 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6D9524A22EDC00102E91 /* AppView.swift */; };
+		4B5B6D9824A23A9D00102E91 /* RaptorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6D9724A23A9D00102E91 /* RaptorViewController.swift */; };
+		4B5B6D9A24A23B0900102E91 /* RaptorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6D9924A23B0900102E91 /* RaptorView.swift */; };
+		4B5B6D9C24A23DB200102E91 /* TriceratopsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6D9B24A23DB200102E91 /* TriceratopsViewController.swift */; };
+		4B5B6DA024A23DF000102E91 /* TriceratopsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6D9F24A23DF000102E91 /* TriceratopsView.swift */; };
+		4B5B6DA224A23F8D00102E91 /* SpinosaurusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6DA124A23F8D00102E91 /* SpinosaurusViewController.swift */; };
+		4B5B6DA424A23FA800102E91 /* SpinosaurusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6DA324A23FA800102E91 /* SpinosaurusView.swift */; };
+		4B5B6DA624A2410B00102E91 /* BrachiosaurusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6DA524A2410B00102E91 /* BrachiosaurusViewController.swift */; };
+		4B5B6DA824A2412D00102E91 /* BrachiosaurusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B6DA724A2412D00102E91 /* BrachiosaurusView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +38,18 @@
 		4B5B6D7E24A2058800102E91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B5B6D8124A2058800102E91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B5B6D8324A2058800102E91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B5B6D8B24A215C700102E91 /* RexViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RexViewController.swift; sourceTree = "<group>"; };
+		4B5B6D8D24A2188200102E91 /* RexView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RexView.swift; sourceTree = "<group>"; };
+		4B5B6D9324A22D6D00102E91 /* ViewControllerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerView.swift; sourceTree = "<group>"; };
+		4B5B6D9524A22EDC00102E91 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		4B5B6D9724A23A9D00102E91 /* RaptorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaptorViewController.swift; sourceTree = "<group>"; };
+		4B5B6D9924A23B0900102E91 /* RaptorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaptorView.swift; sourceTree = "<group>"; };
+		4B5B6D9B24A23DB200102E91 /* TriceratopsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriceratopsViewController.swift; sourceTree = "<group>"; };
+		4B5B6D9F24A23DF000102E91 /* TriceratopsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriceratopsView.swift; sourceTree = "<group>"; };
+		4B5B6DA124A23F8D00102E91 /* SpinosaurusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinosaurusViewController.swift; sourceTree = "<group>"; };
+		4B5B6DA324A23FA800102E91 /* SpinosaurusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinosaurusView.swift; sourceTree = "<group>"; };
+		4B5B6DA524A2410B00102E91 /* BrachiosaurusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrachiosaurusViewController.swift; sourceTree = "<group>"; };
+		4B5B6DA724A2412D00102E91 /* BrachiosaurusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrachiosaurusView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +82,22 @@
 		4B5B6D7124A2058500102E91 /* HW1 */ = {
 			isa = PBXGroup;
 			children = (
+				4B5B6D8D24A2188200102E91 /* RexView.swift */,
+				4B5B6D9F24A23DF000102E91 /* TriceratopsView.swift */,
+				4B5B6D9924A23B0900102E91 /* RaptorView.swift */,
+				4B5B6DA724A2412D00102E91 /* BrachiosaurusView.swift */,
+				4B5B6DA324A23FA800102E91 /* SpinosaurusView.swift */,
+				4B5B6D9324A22D6D00102E91 /* ViewControllerView.swift */,
 				4B5B6D7224A2058500102E91 /* AppDelegate.swift */,
 				4B5B6D7424A2058500102E91 /* SceneDelegate.swift */,
 				4B5B6D7624A2058500102E91 /* ViewController.swift */,
 				4B5B6D7824A2058500102E91 /* Main.storyboard */,
+				4B5B6DA524A2410B00102E91 /* BrachiosaurusViewController.swift */,
+				4B5B6DA124A23F8D00102E91 /* SpinosaurusViewController.swift */,
+				4B5B6D9B24A23DB200102E91 /* TriceratopsViewController.swift */,
+				4B5B6D9724A23A9D00102E91 /* RaptorViewController.swift */,
+				4B5B6D8B24A215C700102E91 /* RexViewController.swift */,
+				4B5B6D9524A22EDC00102E91 /* AppView.swift */,
 				4B5B6D7E24A2058800102E91 /* Assets.xcassets */,
 				4B5B6D8024A2058800102E91 /* LaunchScreen.storyboard */,
 				4B5B6D8324A2058800102E91 /* Info.plist */,
@@ -141,10 +177,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B5B6DA224A23F8D00102E91 /* SpinosaurusViewController.swift in Sources */,
+				4B5B6D8C24A215C700102E91 /* RexViewController.swift in Sources */,
+				4B5B6D9424A22D6D00102E91 /* ViewControllerView.swift in Sources */,
+				4B5B6D9A24A23B0900102E91 /* RaptorView.swift in Sources */,
+				4B5B6D8E24A2188200102E91 /* RexView.swift in Sources */,
+				4B5B6D9824A23A9D00102E91 /* RaptorViewController.swift in Sources */,
 				4B5B6D7D24A2058500102E91 /* HW1.xcdatamodeld in Sources */,
+				4B5B6D9624A22EDC00102E91 /* AppView.swift in Sources */,
+				4B5B6DA824A2412D00102E91 /* BrachiosaurusView.swift in Sources */,
+				4B5B6DA024A23DF000102E91 /* TriceratopsView.swift in Sources */,
 				4B5B6D7724A2058500102E91 /* ViewController.swift in Sources */,
+				4B5B6D9C24A23DB200102E91 /* TriceratopsViewController.swift in Sources */,
+				4B5B6DA424A23FA800102E91 /* SpinosaurusView.swift in Sources */,
 				4B5B6D7324A2058500102E91 /* AppDelegate.swift in Sources */,
 				4B5B6D7524A2058500102E91 /* SceneDelegate.swift in Sources */,
+				4B5B6DA624A2410B00102E91 /* BrachiosaurusViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
